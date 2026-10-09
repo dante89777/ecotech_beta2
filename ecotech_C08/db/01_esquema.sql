@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS persona (
+    rut TEXT PRIMARY KEY,
+    nombre TEXT NOT NULL
+);
